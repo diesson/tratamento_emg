@@ -1,1 +1,1 @@
-# Processamento de sinais biomédicos obtidos através de um EMG
+# Processamento de sinais biomédicos obtidos por meio de um EMG
