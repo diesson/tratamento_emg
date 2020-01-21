@@ -1,2 +1,1 @@
-# tratamento_emg
-Processamento de sinais biomédicos de um EMG
+# Processamento de sinais biomédicos obtidos através de um EMG
